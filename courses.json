@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "61c72db495f9342910a3cbf2",
+    "name": "Course01",
+    "abb": "C01",
+    "doctorName": "John Doe",
+    "doctorEmail": "omar@omar45.com",
+    "deps": ["cs", "is"],
+    "createdAt": "2021-12-25T14:41:56.043Z",
+    "updatedAt": "2021-12-25T14:41:56.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dbd95f9342910a3cbf4",
+    "name": "Course02",
+    "abb": "C02",
+    "doctorName": "John Doe",
+    "doctorEmail": "omar@omar45.com",
+    "deps": ["cs", "csys"],
+    "createdAt": "2021-12-25T14:42:05.337Z",
+    "updatedAt": "2021-12-25T14:42:05.337Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dc895f9342910a3cbf6",
+    "name": "Course03",
+    "abb": "C03",
+    "doctorName": "John Doe",
+    "doctorEmail": "omar@omar45.com",
+    "deps": ["sc", "is", "csys", "cs"],
+    "createdAt": "2021-12-25T14:42:16.006Z",
+    "updatedAt": "2021-12-25T14:42:16.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dd695f9342910a3cbf8",
+    "name": "Course04",
+    "abb": "C04",
+    "doctorName": "John Doe",
+    "doctorEmail": "omar@omar45.com",
+    "deps": ["csys", "is"],
+    "createdAt": "2021-12-25T14:42:30.466Z",
+    "updatedAt": "2021-12-25T14:42:30.466Z",
+    "__v": 0
+  }
+]
