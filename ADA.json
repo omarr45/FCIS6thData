@@ -1,42 +1,21 @@
 [
   {
-    "title": "Week 0",
+    "title": "Pinned Resources",
     "elements": [
       {
-        "icon": 1,
-        "title": "Course Book - Analysis & Design of Algorithms",
-        "link": "https://www.omar45.com"
+        "icon": 7,
+        "title": "Teams Channel Invitation",
+        "link": "https://teams.microsoft.com/l/channel/19%3aq3PZ88fBnslPvzPPH1sZv3TLKogaiezJE8NTbkRFV9o1%40thread.tacv2/General?groupId=a2a92af8-9df1-4db7-b525-d14218252caf&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - Introduction to Algorithms (3rd Edition) 5.36 MB",
+        "link": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf"
       }
     ]
   },
   {
     "title": "Week 1",
-    "elements": [
-      {
-        "icon": 2,
-        "title": "Test first item in Week 1",
-        "link": "https://www.omar45.com/blog"
-      },
-      {
-        "icon": 3,
-        "title": "Test second item in Week 1",
-        "link": "https://www.fiverr.com/"
-      }
-    ]
-  },
-  {
-    "title": "Week 2",
-    "elements": [
-      {
-        "icon": 4,
-        "title": "Test first item in Week 2",
-        "link": "https://www.omar45.com/blog"
-      },
-      {
-        "icon": 5,
-        "title": "Test second item in Week 2",
-        "link": "https://www.fiverr.com/"
-      }
-    ]
+    "elements": []
   }
 ]
