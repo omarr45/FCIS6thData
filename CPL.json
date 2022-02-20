@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 6,
+        "title": "Course Book - Concepts of Programming Languages (11th Edition) 6.47 MB",
+        "link": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - Programming in Scala (1st Edition) 4.83 MB",
+        "link": "https://people.cs.ksu.edu/~schmidt/705a/Scala/Programming-in-Scala.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 1",
+        "link": "https://drive.google.com/file/d/1bSJXYn5Ob3uvS3flhGehmg6aiEgCU9mO/view?usp=sharing"
+      }
+    ]
+  }
+]
