@@ -1,27 +1,5 @@
 [
   {
-    "_id": "61c72db495f9342910a3cbf2",
-    "name": "Concepts of Programming Languages",
-    "abb": "CPL",
-    "doctorName": "Dr. Mohamed Mabrouk",
-    "doctorEmail": "Mohamed.mabrouk@cis.asu.edu.eg",
-    "deps": ["cs", "sc"],
-    "createdAt": "2021-12-25T14:41:56.043Z",
-    "updatedAt": "2021-12-25T14:41:56.043Z",
-    "__v": 0
-  },
-  {
-    "_id": "61c72dbd95f9342910a3cbf4",
-    "name": "Computer Graphics",
-    "abb": "CG",
-    "doctorName": "Dr. Maryam Nabil",
-    "doctorEmail": "maryam_nabil@cis.asu.edu.eg",
-    "deps": ["cs", "sc"],
-    "createdAt": "2021-12-25T14:42:05.337Z",
-    "updatedAt": "2021-12-25T14:42:05.337Z",
-    "__v": 0
-  },
-  {
     "_id": "61c72dc895f9342910a3cbf6",
     "name": "Software Engineering",
     "abb": "SE",
@@ -41,6 +19,39 @@
     "deps": ["cs", "sc", "is", "csys"],
     "createdAt": "2021-12-25T14:42:30.466Z",
     "updatedAt": "2021-12-25T14:42:30.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dd695f9342910a3cbf14",
+    "name": "High Performance Computing",
+    "abb": "HPC",
+    "doctorName": "Dr. Ahmed ElAleimy",
+    "doctorEmail": "",
+    "deps": ["is", "sc", "csys"],
+    "createdAt": "2021-12-25T14:42:30.466Z",
+    "updatedAt": "2021-12-25T14:42:30.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72db495f9342910a3cbf2",
+    "name": "Concepts of Programming Languages",
+    "abb": "CPL",
+    "doctorName": "Dr. Mohamed Mabrouk",
+    "doctorEmail": "Mohamed.mabrouk@cis.asu.edu.eg",
+    "deps": ["cs", "sc"],
+    "createdAt": "2021-12-25T14:41:56.043Z",
+    "updatedAt": "2021-12-25T14:41:56.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dbd95f9342910a3cbf4",
+    "name": "Computer Graphics",
+    "abb": "CG",
+    "doctorName": "Dr. Maryam Nabil",
+    "doctorEmail": "maryam_nabil@cis.asu.edu.eg",
+    "deps": ["cs", "sc"],
+    "createdAt": "2021-12-25T14:42:05.337Z",
+    "updatedAt": "2021-12-25T14:42:05.337Z",
     "__v": 0
   },
   {
@@ -66,22 +77,33 @@
     "__v": 0
   },
   {
-    "_id": "61c72dd695f9342910a3cbf14",
-    "name": "High Performance Computing",
-    "abb": "HPC",
-    "doctorName": "Dr. Ahmed ElAleimy",
-    "doctorEmail": "",
-    "deps": ["is", "sc", "csys"],
-    "createdAt": "2021-12-25T14:42:30.466Z",
-    "updatedAt": "2021-12-25T14:42:30.466Z",
-    "__v": 0
-  },
-  {
     "_id": "61c72dd695f9342910a3cbf16",
     "name": "Data Analytics",
     "abb": "DA",
     "doctorName": "Dr. Tarek Gharib",
     "doctorEmail": "tfgharib@cis.asu.edu.eg",
+    "deps": ["is"],
+    "createdAt": "2021-12-25T14:42:30.466Z",
+    "updatedAt": "2021-12-25T14:42:30.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dd695f9342910a3cbf20",
+    "name": "Digital Multimedia",
+    "abb": "DM",
+    "doctorName": "Dr. Nevin Atef",
+    "doctorEmail": "Nivin.atef@cis.asu.edu.eg",
+    "deps": ["is"],
+    "createdAt": "2021-12-25T14:42:30.466Z",
+    "updatedAt": "2021-12-25T14:42:30.466Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c72dd695f9342910a3cbf24",
+    "name": "Data Security",
+    "abb": "DS",
+    "doctorName": "Dr. Tamer Mustafa",
+    "doctorEmail": "tammabde@cis.asu.edu.eg",
     "deps": ["is"],
     "createdAt": "2021-12-25T14:42:30.466Z",
     "updatedAt": "2021-12-25T14:42:30.466Z",
@@ -99,34 +121,12 @@
     "__v": 0
   },
   {
-    "_id": "61c72dd695f9342910a3cbf20",
-    "name": "Digital Multimedia",
-    "abb": "DM",
-    "doctorName": "Dr. Nevin Atef",
-    "doctorEmail": "Nivin.atef@cis.asu.edu.eg",
-    "deps": ["is"],
-    "createdAt": "2021-12-25T14:42:30.466Z",
-    "updatedAt": "2021-12-25T14:42:30.466Z",
-    "__v": 0
-  },
-  {
     "_id": "61c72dd695f9342910a3cbf22",
     "name": "Embedded Systems",
     "abb": "ES",
     "doctorName": "Dr. Randa Mohamed",
     "doctorEmail": "randa_aboelfatoh@cis.asu.edu.eg",
     "deps": ["csys"],
-    "createdAt": "2021-12-25T14:42:30.466Z",
-    "updatedAt": "2021-12-25T14:42:30.466Z",
-    "__v": 0
-  },
-  {
-    "_id": "61c72dd695f9342910a3cbf24",
-    "name": "Data Security",
-    "abb": "DS",
-    "doctorName": "Dr. Tamer Mustafa",
-    "doctorEmail": "tammabde@cis.asu.edu.eg",
-    "deps": ["is"],
     "createdAt": "2021-12-25T14:42:30.466Z",
     "updatedAt": "2021-12-25T14:42:30.466Z",
     "__v": 0
