@@ -3,7 +3,7 @@
     "title": "Week 0",
     "elements": [
       {
-        "icon": "1",
+        "icon": 1,
         "title": "Course Book - Analysis & Design of Algorithms",
         "link": "https://www.omar45.com"
       }
@@ -13,12 +13,12 @@
     "title": "Week 1",
     "elements": [
       {
-        "icon": "2",
+        "icon": 2,
         "title": "Test first item in Week 1",
         "link": "https://www.omar45.com/blog"
       },
       {
-        "icon": "3",
+        "icon": 3,
         "title": "Test second item in Week 1",
         "link": "https://www.fiverr.com/"
       }
@@ -28,12 +28,12 @@
     "title": "Week 2",
     "elements": [
       {
-        "icon": "2",
+        "icon": 4,
         "title": "Test first item in Week 2",
         "link": "https://www.omar45.com/blog"
       },
       {
-        "icon": "3",
+        "icon": 5,
         "title": "Test second item in Week 2",
         "link": "https://www.fiverr.com/"
       }
