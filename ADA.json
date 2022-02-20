@@ -11,6 +11,16 @@
         "icon": 6,
         "title": "Course Book - Introduction to Algorithms (3rd Edition) 5.36 MB",
         "link": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf"
+      },
+      {
+        "icon": 8,
+        "title": "MS Stream (Algorithms - General 2020/2021)",
+        "link": "https://web.microsoftstream.com/channel/58521972-cde5-4001-9e25-cef30115f32a"
+      },
+      {
+        "icon": 8,
+        "title": "MS Stream (Algorithms - Credit 2020/2021)",
+        "link": "https://web.microsoftstream.com/channel/f509ea5d-fbe1-4eae-b432-7a9dba4e4596"
       }
     ]
   }
