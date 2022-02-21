@@ -5,7 +5,10 @@
     "date": "2 FEB 2022",
     "text": "جدول المحاضرات لأول أسبوع",
     "links": [
-      "https://drive.google.com/file/d/1aZpof2si96s0aff73sqsrKiswblGVsvz/view"
+      {
+        "id": 1,
+        "url": "https://drive.google.com/file/d/1aZpof2si96s0aff73sqsrKiswblGVsvz/view"
+      }
     ]
   }
 ]
