@@ -5,7 +5,7 @@
       {
         "icon": 6,
         "title": "Course Book - Concepts of Programming Languages (11th Edition) 6.47 MB",
-        "link": "https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf"
+        "link": "https://vulms.vu.edu.pk/Courses/CS508/Downloads/Concepts%20of%20Programming%20Languages%2011th%20Ed.pdf"
       },
       {
         "icon": 6,
@@ -19,8 +19,13 @@
     "elements": [
       {
         "icon": 1,
-        "title": "Lecture 1",
-        "link": "https://drive.google.com/file/d/1bSJXYn5Ob3uvS3flhGehmg6aiEgCU9mO/view?usp=sharing"
+        "title": "Lecture 1 (2.7 MB)",
+        "link": "https://drive.google.com/file/d/1bSJXYn5Ob3uvS3flhGehmg6aiEgCU9mO/view"
+      },
+      {
+        "icon": 9,
+        "title": "Lecture 1 - Sarah ElGebaly (1.26 MB)",
+        "link": "https://drive.google.com/file/d/1NQVFtavBFcHMPm5mrmjtDDIMkrqnKH-J/view"
       }
     ]
   }

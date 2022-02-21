@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 6,
+        "title": "Course Book - Sommerville's Software Engineering (9th Edition) 5.14 MB",
+        "link": "https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf"
+      },
+      {
+        "icon": 6,
+        "title": "[Extra] Software Engineering: A Practitioner's Approach (5th Edition) 6.66 MB",
+        "link": "https://repository.dinus.ac.id/docs/ajar/Software_Engineering_-_Pressman.pdf"
+      },
+      {
+        "icon": 6,
+        "title": "[Extra] Software Engineering: A Practitioner's Approach (7th Edition) 19.5 MB",
+        "link": "https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf"
+      },
+      {
+        "icon": 6,
+        "title": "[Extra] Software Engineering: A Practitioner's Approach (8th Edition) 22.9 MB",
+        "link": "http://ce.sharif.edu/courses/98-99/2/ce474-2/resources/root/Roger%20S.%20Pressman_%20Bruce%20R.%20Maxin%20-%20Software%20Engineering_%20A%20Practitioner%E2%80%99s%20Approach-McGraw-Hill%20Education%20(2014).pdf"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 1 - Part 01",
+        "link": "https://drive.google.com/file/d/1_oizsoDjKN2uPmlfHinyx7S_eMMP-E3T/view"
+      },
+      {
+        "icon": 1,
+        "title": "Lecture 1 - Part 02",
+        "link": "https://drive.google.com/file/d/1KWzHyZCb01mfTv26MrxLfhNTQTasEfVo/view"
+      }
+    ]
+  }
+]
