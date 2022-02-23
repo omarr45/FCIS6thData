@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 7,
+        "title": "Teams Channel Invitation - SC Only",
+        "link": "https://teams.microsoft.com/l/channel/19%3az3Nxd2s_QG_c7xbgMkcxfgLzxFhvTGNSGcwD_e1TXkk1%40thread.tacv2/General?groupId=8f7a7d3d-21c0-4bb1-921c-cd82a05828e9&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      },
+      {
+        "icon": 7,
+        "title": "Teams Channel Invitation - CS Only",
+        "link": "https://teams.microsoft.com/l/channel/19%3ahp7aNZeC_N0Agd6zov1_GdeGcnOZsV7HSb8hv5oButo1%40thread.tacv2/General?groupId=1bd2637d-09c7-4fdb-a32a-6f7b6a6c0463&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      }
+    ]
+  }
+]
