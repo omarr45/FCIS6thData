@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1U2QzXjtOzANGYmZ14vaUISVZDslTU3Ke?usp=sharing"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - NLP with python [O'reilly] - 5.17 MB",
+        "link": "https://drive.google.com/file/d/15Cenn0bvv-HvhHpq_1sEQCgvX_MMUMl3/view?usp=sharing"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - Hands-On NLP with python - 18.4 MB",
+        "link": "https://drive.google.com/file/d/1Hg4kB_B94xuAVBZsyJsJ7byNCh9cs3JY/view?usp=sharing"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - NLP succintly - 1.5 MB",
+        "link": "https://drive.google.com/file/d/1KYDuOcUOdWi470faAMkEJ2zVHjqaT_GX/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 1 (4.1 MB)",
+        "link": "https://drive.google.com/file/d/1LIYLBRB1wweEMs48VTfQQ4LLbxOuIApb/view"
+      }
+    ]
+  }
+]
