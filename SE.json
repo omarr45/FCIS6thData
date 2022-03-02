@@ -3,6 +3,11 @@
     "title": "Pinned Resources",
     "elements": [
       {
+        "icon": 10,
+        "title": "Labs Drive Link",
+        "link": "https://drive.google.com/drive/folders/1-CzANVapDrI8m0PZV4RzXcUYrkwZI90G"
+      },
+      {
         "icon": 6,
         "title": "Course Book - Sommerville's Software Engineering (9th Edition) 5.14 MB",
         "link": "https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf"
