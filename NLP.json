@@ -28,9 +28,19 @@
     "title": "Week 1",
     "elements": [
       {
-        "icon": 4,
+        "icon": 1,
         "title": "Lecture 1 (4.1 MB)",
         "link": "https://drive.google.com/file/d/1LIYLBRB1wweEMs48VTfQQ4LLbxOuIApb/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lab 1 (1 MB)",
+        "link": "https://drive.google.com/file/d/1KXlyJc0IPv-um1kg2qGWhphhdQgaUeMi/view"
       }
     ]
   }
