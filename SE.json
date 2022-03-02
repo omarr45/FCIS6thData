@@ -38,5 +38,20 @@
         "link": "https://drive.google.com/file/d/1KWzHyZCb01mfTv26MrxLfhNTQTasEfVo/view"
       }
     ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 2",
+        "link": "https://drive.google.com/file/d/1IKmC6BeGbEBOUIocz5G9FcdrObBTdMBF/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 1",
+        "link": "https://drive.google.com/drive/folders/1-Dk7kkqU222r0FktNhrI1s1KgKVCwwZ3"
+      }
+    ]
   }
 ]
