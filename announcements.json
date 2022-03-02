@@ -10,5 +10,21 @@
         "url": "https://drive.google.com/file/d/1aZpof2si96s0aff73sqsrKiswblGVsvz/view"
       }
     ]
+  },
+  {
+    "id": "2",
+    "person": "Omar AbdulRahman",
+    "date": "1 MAR 2022",
+    "text": "Dear All\nKindly find below the link to (Software Engineering) Lab Materials.\nThe materials of each lab will be uploaded every week on this drive, so please check link_1 regularly (the materials of the first lab have been already uploaded).\nAlso, kindly find the link to the project registration form link_2.\nPlease consider the following Instructions for registration:\n===============================================\n1. The deadline for teams' registrations will be on Sunday (6 March 2022) 11:59 PM.\n2. The Minimum number of team members is 6 and the Maximum is 7.\n3. The Members should write their Full Names in Arabic in the same format written in the student affairs sections' sheets.\n4. Team Member 1 (Team leader) will be the member responsible for submitting the required project deliverables that will be announced later.\n5. Each team should register only once.\n6. After you submit your response, please click on 'Edit your response' and save the link that appears to you so that you could edit your registration any time before the deadline.\nGood Luck.\nSoftware Engineering Team",
+    "links": [
+      {
+        "id": 2,
+        "url": "https://drive.google.com/drive/folders/1-CzANVapDrI8m0PZV4RzXcUYrkwZI90G"
+      },
+      {
+        "id": 3,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfcwEy__Www7Wzu8jtbSAqJl7tqxaTUh-OaQco4kbSrXY2zIQ/viewform"
+      }
+    ]
   }
 ]
