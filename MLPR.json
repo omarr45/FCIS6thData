@@ -13,5 +13,25 @@
         "link": "https://teams.microsoft.com/l/channel/19%3ahp7aNZeC_N0Agd6zov1_GdeGcnOZsV7HSb8hv5oButo1%40thread.tacv2/General?groupId=1bd2637d-09c7-4fdb-a32a-6f7b6a6c0463&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
       }
     ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 1 (2 MB)",
+        "link": "https://drive.google.com/file/d/1KGIPjbEaiZpTchKVx5mDUPb-ijJwWBmj/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 2 (2.5 MB)",
+        "link": "https://drive.google.com/file/d/1uycVLMegA8K_dQjM3M-3aDvcTKdLh3M7/view?usp=sharing"
+      }
+    ]
   }
 ]
