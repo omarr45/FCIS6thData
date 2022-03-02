@@ -4,13 +4,13 @@
     "elements": [
       {
         "icon": 6,
-        "title": "Course Book - Concepts of Programming Languages (11th Edition) 6.47 MB",
-        "link": "https://vulms.vu.edu.pk/Courses/CS508/Downloads/Concepts%20of%20Programming%20Languages%2011th%20Ed.pdf"
+        "title": "Course Book 1 - Concepts of Programming Languages (11th Edition) 6.5 MB",
+        "link": "https://drive.google.com/file/d/11jeKVazSYaBPHa8NX6OCsx0NsyZ7BbS2/view?usp=sharing"
       },
       {
         "icon": 6,
-        "title": "Course Book - Programming in Scala (1st Edition) 4.83 MB",
-        "link": "https://people.cs.ksu.edu/~schmidt/705a/Scala/Programming-in-Scala.pdf"
+        "title": "Course Book - Programming in Scala (1st Edition) 4.8 MB",
+        "link": "https://drive.google.com/file/d/1Rllt9PamFbVxA-byWubi6Ti7QgCTmsPE/view?usp=sharing"
       }
     ]
   },
@@ -19,13 +19,28 @@
     "elements": [
       {
         "icon": 1,
-        "title": "Lecture 1 (2.7 MB)",
+        "title": "Lecture 1 [Up to slide 49] - (2.7 MB)",
         "link": "https://drive.google.com/file/d/1bSJXYn5Ob3uvS3flhGehmg6aiEgCU9mO/view"
       },
       {
         "icon": 9,
         "title": "Lecture 1 - Sarah ElGebaly (1.26 MB)",
         "link": "https://drive.google.com/file/d/1NQVFtavBFcHMPm5mrmjtDDIMkrqnKH-J/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 2 [Up to slide 29] - (1.7 MB)",
+        "link": "https://drive.google.com/file/d/1VCOywQfUahN7_I7NMn-FSZwXG87Lfx0K/view?usp=sharing"
+      },
+      {
+        "icon": 9,
+        "title": "Lecture 2 - Sarah ElGebaly (2 MB)",
+        "link": "https://drive.google.com/file/d/1jeSDgC9CWEy5IE1a4NP4o1D4ebO4t2EN/view"
       }
     ]
   }
