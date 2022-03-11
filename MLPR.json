@@ -18,7 +18,7 @@
     "title": "Week 1",
     "elements": [
       {
-        "icon": 4,
+        "icon": 1,
         "title": "Lecture 1 (2 MB)",
         "link": "https://drive.google.com/file/d/1KGIPjbEaiZpTchKVx5mDUPb-ijJwWBmj/view?usp=sharing"
       }
@@ -28,9 +28,29 @@
     "title": "Week 2",
     "elements": [
       {
-        "icon": 4,
+        "icon": 1,
         "title": "Lecture 2 (2.5 MB)",
         "link": "https://drive.google.com/file/d/1uycVLMegA8K_dQjM3M-3aDvcTKdLh3M7/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 1 (1.3 MB)",
+        "link": "https://docs.google.com/presentation/d/1S3U5UXrOHfoCMtsL413G74SeaPR6At5J"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 (1.3 MB)",
+        "link": "https://drive.google.com/file/d/1o2Boj1aKob4Bh3AVWoFEckO8jyO-Kb3_/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 2 (483 KB)",
+        "link": "https://drive.google.com/file/d/1J72Vlxuw6gYFKKR627kf4X_2VFxoD-xV/view?usp=sharing"
       }
     ]
   }

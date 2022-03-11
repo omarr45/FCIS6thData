@@ -8,6 +8,16 @@
         "link": "https://drive.google.com/drive/folders/1-CzANVapDrI8m0PZV4RzXcUYrkwZI90G"
       },
       {
+        "icon": 8,
+        "title": "MS Stream (ODP Labs old recordings)",
+        "link": "https://web.microsoftstream.com/channel/3c5c5075-7140-4a11-9697-b3cd0b900dca"
+      },
+      {
+        "icon": 8,
+        "title": "MS Stream (Lectures old recordings)",
+        "link": "https://web.microsoftstream.com/channel/126fccb7-d8c8-4e9e-9aeb-5f5da249c782"
+      },
+      {
         "icon": 6,
         "title": "Course Book - Sommerville's Software Engineering (9th Edition) 5.14 MB",
         "link": "https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf"
@@ -56,6 +66,21 @@
         "icon": 10,
         "title": "Lab 1",
         "link": "https://drive.google.com/drive/folders/1-Dk7kkqU222r0FktNhrI1s1KgKVCwwZ3"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 [Same slides as Lecture 2]",
+        "link": "https://drive.google.com/file/d/1IKmC6BeGbEBOUIocz5G9FcdrObBTdMBF/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 2",
+        "link": "https://drive.google.com/drive/folders/1HRUPjnoyW_5d1hzeg2PGL1rjKgNaxauV"
       }
     ]
   }

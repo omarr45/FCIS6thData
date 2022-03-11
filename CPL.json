@@ -3,6 +3,11 @@
     "title": "Pinned Resources",
     "elements": [
       {
+        "icon": 7,
+        "title": "Teams Channel Invitation",
+        "link": "https://teams.microsoft.com/l/channel/19%3agi7hzjzxOdBrB1eb-GLZjFdXdxKFW41HQgZ2uMnoTOs1%40thread.tacv2/General?groupId=7c8080d6-fcf8-4e5a-8809-1d73f1afc9a5&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      },
+      {
         "icon": 6,
         "title": "Course Book 1 - Concepts of Programming Languages (11th Edition) 6.5 MB",
         "link": "https://drive.google.com/file/d/11jeKVazSYaBPHa8NX6OCsx0NsyZ7BbS2/view?usp=sharing"
@@ -41,6 +46,31 @@
         "icon": 9,
         "title": "Lecture 2 - Sarah ElGebaly (2 MB)",
         "link": "https://drive.google.com/file/d/1jeSDgC9CWEy5IE1a4NP4o1D4ebO4t2EN/view"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 2 (4.3 MB)",
+        "link": "https://docs.google.com/presentation/d/1eDrp74uuQCZShDhdipe98-z0vZtzYvHo"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 [from 29 to the end] - (1.7 MB)",
+        "link": "https://drive.google.com/file/d/1VCOywQfUahN7_I7NMn-FSZwXG87Lfx0K/view?usp=sharing"
+      },
+      {
+        "icon": 0,
+        "title": "Lecture 3",
+        "link": "https://www.youtube.com/watch?v=PCVULJBjz0M"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 2 (264 KB)",
+        "link": "https://docs.google.com/presentation/d/1bQE8FmvUxl-CUi7M1MVhFuE-ugyiSnmz"
       }
     ]
   }

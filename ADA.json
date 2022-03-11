@@ -58,5 +58,25 @@
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSf1VF8waekMXup_ruligKJm1kSVBKH_H_okPjVjKYO1h4D2gA/viewform"
       }
     ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 3 (4.4 MB)",
+        "link": "https://drive.google.com/file/d/1DzyR9vgjkzaEUCRBdGr-b7pk5dxvP4xr/view"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 2 (27.6 MB)",
+        "link": "https://drive.google.com/file/d/1WRUc_MsWtWnml_g-oHGt1_jtbuubSJi4/view"
+      },
+      {
+        "icon": 11,
+        "title": "Assignment 2 - Deadline: THR 24/03/2022 11:59 pm",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfZ_OEWu_YBcQDdeBpUe9BukiM7JJN2lkKkhzsEwGwGktqyjQ/viewform"
+      }
+    ]
   }
 ]

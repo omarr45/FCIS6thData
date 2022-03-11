@@ -6,6 +6,11 @@
         "icon": 6,
         "title": "Course Book - Computer Graphics with OpenGL (3rd Edition) 162 MB",
         "link": "https://www.pdfdrive.com/computer-graphics-with-opengl-3rd-edition-e183586453.html"
+      },
+      {
+        "icon": 10,
+        "title": "Graphics Labs - Google Drive",
+        "link": "https://drive.google.com/drive/folders/1kfZwVkK5mCzxKmcMG2o7pq2QOMNsMGRL"
       }
     ]
   },
@@ -36,6 +41,31 @@
         "icon": 1,
         "title": "Exercise 2 (0.37 MB)",
         "link": "https://drive.google.com/file/d/1laHNJZO_oUi98_F3dyGcDRHbP_bH2wp9/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 1",
+        "link": "https://drive.google.com/drive/folders/10y472AYs_6B-1oTWelqar5ypu1-pohy9"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 (641 KB)",
+        "link": "https://drive.google.com/file/d/1G3Oxwi2WobAo-tRu2nVLgJ3BBT5HfqLy/view"
+      },
+      {
+        "icon": 1,
+        "title": "Exercise 3 (218 KB)",
+        "link": "https://drive.google.com/file/d/1OjAD0GY_goe6DTadm6qqJbNKldQV3KPv/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 2",
+        "link": "https://drive.google.com/drive/folders/1YYvJjRkyYBQsVo5Vs0NAYYwO6d3F5M3f"
       }
     ]
   }
