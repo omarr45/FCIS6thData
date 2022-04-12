@@ -31,6 +31,11 @@
         "icon": 9,
         "title": "Lecture 1 - Sarah ElGebaly (1.26 MB)",
         "link": "https://drive.google.com/file/d/1NQVFtavBFcHMPm5mrmjtDDIMkrqnKH-J/view"
+      },
+      {
+        "icon": 9,
+        "title": "Lecture 1 - Omar AbdulRahman (138 KB)",
+        "link": "https://drive.google.com/file/d/1iuajIwlhfkklmMV1SZ0pqRSsyErQbPIN/view"
       }
     ]
   },
@@ -43,14 +48,24 @@
         "link": "https://drive.google.com/file/d/1VCOywQfUahN7_I7NMn-FSZwXG87Lfx0K/view?usp=sharing"
       },
       {
+        "icon": 3,
+        "title": "Lab 1 (4.3 MB)",
+        "link": "https://docs.google.com/presentation/d/1eDrp74uuQCZShDhdipe98-z0vZtzYvHo"
+      },
+      {
         "icon": 9,
         "title": "Lecture 2 - Sarah ElGebaly (2 MB)",
         "link": "https://drive.google.com/file/d/1jeSDgC9CWEy5IE1a4NP4o1D4ebO4t2EN/view"
       },
       {
-        "icon": 3,
-        "title": "Lab 1 (4.3 MB)",
-        "link": "https://docs.google.com/presentation/d/1eDrp74uuQCZShDhdipe98-z0vZtzYvHo"
+        "icon": 9,
+        "title": "Lecture 2 - Omar AbdulRahman (216 KB)",
+        "link": "https://drive.google.com/file/d/1PYAI-X9nsCVduDU07kys9TwODxJMpzLC/view"
+      },
+      {
+        "icon": 9,
+        "title": "Lecture 2 - Lama ElMaltawy (691 KB)",
+        "link": "https://drive.google.com/file/d/1g2ebfqMAmsaoQFi-1VNSzLPiM1DMiQ9-/view"
       }
     ]
   },
@@ -59,7 +74,7 @@
     "elements": [
       {
         "icon": 1,
-        "title": "Lecture 3 [from 29 to the end] - (1.7 MB)",
+        "title": "Lecture 2 [from 29 to the end] - (1.7 MB)",
         "link": "https://drive.google.com/file/d/1VCOywQfUahN7_I7NMn-FSZwXG87Lfx0K/view?usp=sharing"
       },
       {
@@ -71,6 +86,66 @@
         "icon": 3,
         "title": "Lab 2 (264 KB)",
         "link": "https://docs.google.com/presentation/d/1bQE8FmvUxl-CUi7M1MVhFuE-ugyiSnmz"
+      },
+      {
+        "icon": 9,
+        "title": "Lecture 3 - Omar AbdulRahman (197 KB)",
+        "link": "https://drive.google.com/file/d/16iHeMJgCvjYNOobfRqcHVneOZcy_nC4q/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 [Up to slide 68]- (1.7 MB)",
+        "link": "https://drive.google.com/file/d/1lmM7nmiu1RU7omj6kFC-FmH0wqr3Y6-6/view?usp=sharing"
+      },
+      {
+        "icon": 0,
+        "title": "Week 4 Lecture",
+        "link": "https://www.youtube.com/watch?v=9761BAEcG2Q"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 3 (478 KB)",
+        "link": "https://docs.google.com/presentation/d/1C_boCA78Z3gqmIBi4mWEhc54F_G2Fykb/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4 [Up to slide 36] - (1.6 MB)",
+        "link": "https://drive.google.com/file/d/1FrwoaO_rMkLucozJX6LzagOfoSfpBdQW/view?usp=sharing"
+      },
+      {
+        "icon": 0,
+        "title": "Week 5 Lecture",
+        "link": "https://www.youtube.com/watch?v=fhE0EgG-GHA"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 4 (640 KB)",
+        "link": "https://docs.google.com/presentation/d/1hbpu26pYPHp4M7HdH01HQynL-4txhanc/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5 [Up to slide 46] - (1.5 MB)",
+        "link": "https://drive.google.com/file/d/1tX0lLUVT9Y3hEWdPudJNrUfiMzMtxEIr/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 5 (281 KB)",
+        "link": "https://docs.google.com/presentation/d/1wWVGPkwMn6JFg8DNMYo7p0l5BgT4HiXr/view?usp=sharing"
       }
     ]
   }
