@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lectures - Google Drive",
+        "link": "https://drive.google.com/drive/folders/1ibJFrTVllav_VBp7Fir_BEUH7P7jQYc-"
+      },
+      {
+        "icon": 10,
+        "title": "Labs - Google Drive",
+        "link": "https://drive.google.com/drive/folders/1zO5iKwTpe3OrDVYAhgJGEDaNWkWdakZq?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 1",
+        "link": "https://drive.google.com/file/d/1LSCLS7-S4Sq82YmxI5NadB_a-b2re9GR/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 2",
+        "link": "https://drive.google.com/file/d/1TZi6KpGs4qpcliPm2GE-DftoNXlowjSp/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 1",
+        "link": "https://docs.google.com/presentation/d/1uMdIk1apzLnp4Pa4GHpreYtL6PPbfHiY/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3",
+        "link": "https://drive.google.com/file/d/1dM9ehtbGH9MKZMIPnFLwWDW4zR-TZ1Ip/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 2",
+        "link": "https://docs.google.com/presentation/d/18UKdGznBQVln7Wso340Y0-jPd9Bn6FBQ/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4",
+        "link": "https://drive.google.com/file/d/145DSUYrnor5OLLioblOOWEQR5WbwNas9/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 3",
+        "link": "https://docs.google.com/presentation/d/1QMdpex-9TbxuSYxN6Q9XZel6BKkazRba/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5",
+        "link": "https://drive.google.com/file/d/19jBcwZNvJubdNPK9KfERrk8g9dhT7zFm/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 4",
+        "link": "https://docs.google.com/presentation/d/1wTtU9xFq1zhZEqq4VnXkKmx_0WoYbw8l/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 6",
+        "link": "https://drive.google.com/file/d/1Allx_Qqi4mvhww2ISUP15jXL-tdjGVFb/view?usp=sharing "
+      },
+      {
+        "icon": 3,
+        "title": "Lab 5",
+        "link": "https://docs.google.com/presentation/d/1xFG5tIuhKdKDStA8An9GTzGBqU_MYALE/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 3,
+        "title": "Lab 6",
+        "link": "https://docs.google.com/presentation/d/1cAhYQA1VHgqIRIcL0wYWAmUo7ErsMK99/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  }
+]

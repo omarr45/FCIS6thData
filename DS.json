@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lectures - Google Drive",
+        "link": "https://drive.google.com/drive/folders/10Y971PxrMi5Pu4N0wWb_I63byp2XfXBi"
+      },
+      {
+        "icon": 10,
+        "title": "Sections - Google Drive",
+        "link": "https://drive.google.com/drive/folders/11sthX1bnqZKN_gCetEP4C9LVUQLqYbVS?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Project - Google Drive",
+        "link": "https://drive.google.com/drive/folders/1YmDyUDoV67WRjxd36gTW7tR5JzeMuBwJ?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 1",
+        "link": "https://drive.google.com/drive/folders/10Y971PxrMi5Pu4N0wWb_I63byp2XfXBi"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 2",
+        "link": "https://docs.google.com/presentation/d/1SPssB0TNBBTDo0Rf7BAIor0XA9OjnR69/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      },
+      {
+        "icon": 3,
+        "title": "Section 1",
+        "link": "https://docs.google.com/presentation/d/1_JMm-4Te1ZybXFvQtaXq1uAQjwoOt0zz/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 & 4",
+        "link": "https://docs.google.com/presentation/d/1iqucUGWdxcsqWrQQ6otMlCcXCh6sFg3q/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      },
+      {
+        "icon": 3,
+        "title": "Section 2",
+        "link": "https://docs.google.com/presentation/d/1BLJ3cbRqM022fSMek6m4gvAGke8SOB7-/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3 & 4",
+        "link": "https://docs.google.com/presentation/d/1iqucUGWdxcsqWrQQ6otMlCcXCh6sFg3q/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      },
+      {
+        "icon": 3,
+        "title": "Section 3",
+        "link": "https://docs.google.com/presentation/d/1sx1wbvBo7nrWE7MeTr9u5EojtYaXmsGV/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 3,
+        "title": "Section 4",
+        "link": "https://docs.google.com/presentation/d/1VSkKyCS5_qFXt4ot_FqexcpVuDE-VTpL/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Section 5",
+        "link": "https://drive.google.com/drive/folders/1QQKV5gJe6Rrfu5AKmZwpMMbxJ__IOQwt?usp=sharing"
+      }
+    ]
+  }
+]
