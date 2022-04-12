@@ -40,6 +40,16 @@
     ]
   },
   {
+    "title": "Project",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Phase 1 Requirements",
+        "link": "https://drive.google.com/file/d/1DLB1MfavzoYHUEQsl1yJ4-5pgiC8QGOj/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "title": "Week 1",
     "elements": [
       {
@@ -81,6 +91,51 @@
         "icon": 10,
         "title": "Lab 2",
         "link": "https://drive.google.com/drive/folders/1HRUPjnoyW_5d1hzeg2PGL1rjKgNaxauV"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4",
+        "link": "https://drive.google.com/file/d/1f1M-d2Ap72jRwUMrY4i_9_BRe3FNjmLn/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 3",
+        "link": "https://drive.google.com/drive/folders/15BiTUh2AAM5ItIUxCPBvMUA38aCRSY3D?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5",
+        "link": "https://drive.google.com/file/d/1sqYO9Uk9Kj-xOrkq7DRrWmzNJr0r6Xl8/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 4",
+        "link": "https://drive.google.com/drive/folders/1mf960Lf2UpG51mAl8maMmmJ-S_EvO1K4?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 6",
+        "link": "https://drive.google.com/file/d/1ZhgyG1sFFmh2krMhTCRbd14MEDubj_gN/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 5",
+        "link": "https://drive.google.com/drive/folders/1PFEED_egRe6KhTW4HEJ0uD5mpTDv2bon?usp=sharing"
       }
     ]
   }
