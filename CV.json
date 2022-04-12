@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 7,
+        "title": "Teams Channel Invitation",
+        "link": "https://teams.microsoft.com/l/channel/19%3aM5kDXvz1fPx1TtF5FJqb-Foce0BEt7PedopVgQszmjQ1%40thread.tacv2/General?groupId=3dd09688-6b2e-4cb1-99f4-e992cfac9535&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 1",
+        "link": "https://drive.google.com/file/d/18JKW7T1FlqXjqGexVHzMhvjfcs6z3TQJ/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 2",
+        "link": "https://drive.google.com/file/d/18JKW7T1FlqXjqGexVHzMhvjfcs6z3TQJ/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 1",
+        "link": "https://drive.google.com/file/d/1xsXbpttYJ6LVyaUbF72UUYrYGCgs3Rjr/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 3",
+        "link": "https://drive.google.com/file/d/18JKW7T1FlqXjqGexVHzMhvjfcs6z3TQJ/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 2",
+        "link": "https://docs.google.com/presentation/d/1DYhmyOkvNvJyziPzoeeRowrQkfjgSLuQ/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4",
+        "link": "https://drive.google.com/file/d/1N3aKVZJ0sDsw27Ug91uBAuSPXVZjcj7a/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 3",
+        "link": "https://docs.google.com/presentation/d/1kXTQUdd9uYfas3pVjOBv94XnLRJSWh5b/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5",
+        "link": "https://drive.google.com/file/d/1l1HSmqUXkltCKXShgymEngj8WrqpNeGV/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 4",
+        "link": "https://docs.google.com/presentation/d/1Hfgvu69-7cDTdUapbAADlcS6u-T64kJw/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 6",
+        "link": "https://drive.google.com/file/d/1Vt3rh9ceOeTedFmUHemPILpSwvRN18KC/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 5",
+        "link": "https://docs.google.com/presentation/d/1BjpFWZ_rmE7k3ZB54tTv9iHP0i840NMK/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      },
+      {
+        "icon": 5,
+        "title": "Lab 5 Code (Low Pass Filter.py)",
+        "link": "https://drive.google.com/file/d/1s6d1QvSuEWJYn5S7b00wJR7fRElC0iWv/view?usp=sharing"
+      }
+    ]
+  }
+]
