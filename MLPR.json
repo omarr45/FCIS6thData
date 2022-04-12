@@ -11,6 +11,11 @@
         "icon": 7,
         "title": "Teams Channel Invitation - CS Only",
         "link": "https://teams.microsoft.com/l/channel/19%3ahp7aNZeC_N0Agd6zov1_GdeGcnOZsV7HSb8hv5oButo1%40thread.tacv2/General?groupId=1bd2637d-09c7-4fdb-a32a-6f7b6a6c0463&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
+      },
+      {
+        "icon": 10,
+        "title": "Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1U2QzXjtOzANGYmZ14vaUISVZDslTU3Ke?usp=sharing"
       }
     ]
   },
@@ -51,6 +56,51 @@
         "icon": 4,
         "title": "Lab 2 (483 KB)",
         "link": "https://drive.google.com/file/d/1J72Vlxuw6gYFKKR627kf4X_2VFxoD-xV/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4 (0.9 MB)",
+        "link": "https://drive.google.com/file/d/1OVZnEMZ_e0KWEv7vSeWzqJOT00Y8UAfp/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 3 (1.4 MB)",
+        "link": "https://drive.google.com/file/d/1CkTTzRrJqJEJfLLCHeno897rymQb4LkG/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5 (1.7 MB)",
+        "link": "https://drive.google.com/file/d/1fe9BFUkwVyX1zZLR3tLoEW-ZV6Yea5AS/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 4 (1.9 MB)",
+        "link": "https://drive.google.com/file/d/14Y3EMBBHlQg1bbq8DsGr7_PiUhSWJkBQ/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 6 (1 MB)",
+        "link": "https://drive.google.com/file/d/10JbQqpCaV1A6n6iNf2rqZvGC6PCwWvYI/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 5 (505 KB)",
+        "link": "https://drive.google.com/file/d/1iJsH1MQKwFGwf3hP66AVgF1RFsqKEgh6/view?usp=sharing"
       }
     ]
   }
