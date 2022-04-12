@@ -11,6 +11,11 @@
         "icon": 10,
         "title": "Graphics Labs - Google Drive",
         "link": "https://drive.google.com/drive/folders/1kfZwVkK5mCzxKmcMG2o7pq2QOMNsMGRL"
+      },
+      {
+        "icon": 10,
+        "title": "Sheets' Answers - Google Drive",
+        "link": "https://drive.google.com/drive/folders/1USBC5GbaUbpwFVaeREsXQ31TOQuSjI4F?usp=sharing"
       }
     ]
   },
@@ -66,6 +71,66 @@
         "icon": 10,
         "title": "Lab 2",
         "link": "https://drive.google.com/drive/folders/1YYvJjRkyYBQsVo5Vs0NAYYwO6d3F5M3f"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 4 (876 KB)",
+        "link": "https://drive.google.com/file/d/1jPOXrplZ-geZ6mfxj1h3o0xEQQdrYpSJ/view?usp=sharing"
+      },
+      {
+        "icon": 1,
+        "title": "Exercise 4 (292 KB)",
+        "link": "https://drive.google.com/file/d/1Up-_X2-hq2Lbx8fN4Jr3Kyx_5iwjS4Oy/view?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 3",
+        "link": "https://drive.google.com/drive/folders/1vtBVPOxQzgDfCAzsNtCBDfswBvTWDeMN?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 5 (839 KB)",
+        "link": "https://drive.google.com/file/d/1ODlOFlk81UDKZLbU30i8PzFutLMaxzTF/view?usp=sharing"
+      },
+      {
+        "icon": 1,
+        "title": "Exercise 5 (271 KB)",
+        "link": "https://drive.google.com/file/d/1ODlOFlk81UDKZLbU30i8PzFutLMaxzTF/view?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 4",
+        "link": "https://drive.google.com/drive/folders/1yzdDdjsIo7KSfTyi4mhmbPUvpnUEumY1?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 6 (1 MB)",
+        "link": "https://drive.google.com/file/d/1w_VmNZNlT-wezcJ2uN8cYZh6uNojuDpa/view?usp=sharing"
+      },
+      {
+        "icon": 1,
+        "title": "Exercise 6 (304 KB)",
+        "link": "https://drive.google.com/file/d/191VFfuoWNMKdvpPj4anFgOIjbWmTRpmD/view?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "(All) Blender Labs",
+        "link": "https://drive.google.com/drive/folders/1DLaLikIw6jTsPp6h9HrHtldmNyyIyq7b?usp=sharing"
       }
     ]
   }
