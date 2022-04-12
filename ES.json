@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lectures - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1Q7Nzk7bhZohlO8zrzJuC5yTHOKiAunkF"
+      },
+      {
+        "icon": 10,
+        "title": "Labs - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1vn0_Dz5gd5x5S1nXniNnbc9eb7F_NWKx"
+      },
+      {
+        "icon": 1,
+        "title": "Midterm Solution",
+        "link": "https://drive.google.com/file/d/1ydj1SL_GaJ0sfAfua3sQoxygIUt7ZO_l/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 1",
+        "link": "https://web.microsoftstream.com/video/4dca1268-0c6d-48ca-a555-ad76ba1350aa"
+      }
+    ]
+  },
+  {
+    "title": "Week 2",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 2",
+        "link": "https://drive.google.com/file/d/1MFoNezTg68bPZDwJQly9YM7Yjlwpo5Ex/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 3",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 3",
+        "link": "https://drive.google.com/file/d/1DyRow-KsqWzs39tQW5DmaD3o-K9yG-NP/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 4",
+        "link": "https://drive.google.com/file/d/19_B4MtMXLGbWHN5EeIDc-AVx29YN29lh/view"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 5",
+        "link": "https://drive.google.com/file/d/1O_gtlIEjXJJrH4fZEwOSz6i5fO7b5yIQ/view"
+      }
+    ]
+  }
+]

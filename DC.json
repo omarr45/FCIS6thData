@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 8,
+        "title": "MS Stream - Spring 2021",
+        "link": "https://web.microsoftstream.com/channel/127b6b7b-47d2-4c34-b9da-084937ab3ebf"
+      },
+      {
+        "icon": 10,
+        "title": "Lectures - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1adU5rq_Pl-qjwKHyKhvIPuJsQ5cU9P9V?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Labs - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1bBstbA_82ykdOM7YI-NNiSRR49N5ZxSC?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Midterm - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1rIQjxlbSr3UCh37O6Eo-vx6uWjHHBeVs?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Final - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1tXfL6KHDaYkX6TIB0YmrTfCLzgPHzwoY?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 1",
+    "elements": [
+      {
+        "icon": 0,
+        "title": "Lecture 1",
+        "link": "https://web.microsoftstream.com/video/4dca1268-0c6d-48ca-a555-ad76ba1350aa"
+      }
+    ]
+  }
+]
