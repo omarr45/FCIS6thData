@@ -21,6 +21,16 @@
         "icon": 8,
         "title": "MS Stream (Algorithms - Credit 2020/2021)",
         "link": "https://web.microsoftstream.com/channel/f509ea5d-fbe1-4eae-b432-7a9dba4e4596"
+      },
+      {
+        "icon": 10,
+        "title": "Lectures Link (One Drive)",
+        "link": "https://cisasuedu-my.sharepoint.com/:f:/g/personal/ghadahamed_cis_asu_edu_eg/Etu4rJRl7QxKvDTB7LfoCIIBrd98ySA-D1k3mU1JNAvd1Q?e=RIn7Dn"
+      },
+      {
+        "icon": 10,
+        "title": "Labs Link (One Drive)",
+        "link": "https://cisasuedu-my.sharepoint.com/:f:/g/personal/ghadahamed_cis_asu_edu_eg/EtXhXijbIIJGttmM7JAgX4MBduz8XcCM9wISDwgcV25i2A?e=74yqF1"
       }
     ]
   },
@@ -76,6 +86,66 @@
         "icon": 11,
         "title": "Assignment 2 - Deadline: THR 24/03/2022 11:59 pm",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSfZ_OEWu_YBcQDdeBpUe9BukiM7JJN2lkKkhzsEwGwGktqyjQ/viewform"
+      }
+    ]
+  },
+  {
+    "title": "Week 4",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 4 (5.1 MB)",
+        "link": "https://drive.google.com/file/d/1WuZvC-3HOjj10qZoMKWy1HDbYQN1O2Cj/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 3 (1.02 MB)",
+        "link": "https://drive.google.com/file/d/1ERuyz2EvGaD7WN5C0r2YaoofsaZXb8aA/view?usp=sharing"
+      },
+      {
+        "icon": 11,
+        "title": "Assignment 3 - Deadline: SAT 16/04/2022 11:59 pm",
+        "link": "https://drive.google.com/file/d/1glxo-RNOSvSiNAHbrkDtB2Bn6kkT8DkV/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 5",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 5 (5 MB)",
+        "link": "https://drive.google.com/file/d/1lK4PbLB7_sNZon0RKpTiOj7QJb_RsoAN/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 4 (4.2 MB)",
+        "link": "https://drive.google.com/file/d/1GkPT7ch2-cDqvhpudkR_GSgEh6wKXTo3/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 6 (5.5 MB)",
+        "link": "https://drive.google.com/file/d/1PLkZmI0jKfHbQffeqYyZOM3cNAYi0JjE/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 5 (0.2 MB)",
+        "link": "https://drive.google.com/file/d/1BzzNtoq4hKLHytsi6FtSwqsfMsgb2X1r/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 7 (16.5 MB)",
+        "link": "https://drive.google.com/file/d/1lHygTB9elF7egTWjoCz5PNziUfUXVNFz/view?usp=sharing"
       }
     ]
   }
