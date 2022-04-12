@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Pinned Resources",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lectures - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1LO4AqkK2rY5yN_-SMV5G7-4OAwomShjA?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Labs [Slides & Code] - Google Drive Link",
+        "link": "https://drive.google.com/drive/folders/1A04hIcwbXde9jFM4_DG2CkxG2tiVyDdh?usp=sharing"
+      }
+    ]
+  }
+]
