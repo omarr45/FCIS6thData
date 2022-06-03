@@ -3,6 +3,21 @@
     "title": "Pinned Resources",
     "elements": [
       {
+        "icon": 10,
+        "title": "Solved Exams - [Image Processing]",
+        "link": "https://drive.google.com/drive/folders/1kYi1RUxrDPzNB0_dg3jDDbD0Vro6oVYO"
+      },
+      {
+        "icon": 4,
+        "title": "All Lectures",
+        "link": "https://drive.google.com/file/d/1XS_jQ2RDZ-VCyHp7TO0qZ57TAW6o3JfM/view"
+      },
+      {
+        "icon": 10,
+        "title": "Summaries - [Drive]",
+        "link": "https://drive.google.com/drive/folders/1jLmao3sH7Y02hScLrg4UehwENhes_wVI?usp=sharing"
+      },
+      {
         "icon": 7,
         "title": "Teams Channel Invitation",
         "link": "https://teams.microsoft.com/l/channel/19%3aM5kDXvz1fPx1TtF5FJqb-Foce0BEt7PedopVgQszmjQ1%40thread.tacv2/General?groupId=3dd09688-6b2e-4cb1-99f4-e992cfac9535&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"

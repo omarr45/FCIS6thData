@@ -4,6 +4,11 @@
     "elements": [
       {
         "icon": 10,
+        "title": "Course Drive Link",
+        "link": "https://drive.google.com/drive/folders/1Ku-CVVt8tdfnObnKwHRANV_vR-C4JxKk"
+      },
+      {
+        "icon": 10,
         "title": "Lectures - Google Drive Link",
         "link": "https://drive.google.com/drive/folders/1Q7Nzk7bhZohlO8zrzJuC5yTHOKiAunkF"
       },

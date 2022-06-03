@@ -4,6 +4,11 @@
     "elements": [
       {
         "icon": 10,
+        "title": "Final Exams + Midterms + some Solutions",
+        "link": "https://drive.google.com/drive/folders/1ttZr73kxnSJ6McCcOV5n4ZXtQ9y0GSbw?usp=sharing"
+      },
+      {
+        "icon": 10,
         "title": "Labs Drive Link",
         "link": "https://drive.google.com/drive/folders/1-CzANVapDrI8m0PZV4RzXcUYrkwZI90G"
       },
@@ -136,6 +141,76 @@
         "icon": 10,
         "title": "Lab 5",
         "link": "https://drive.google.com/drive/folders/1PFEED_egRe6KhTW4HEJ0uD5mpTDv2bon?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 7",
+        "link": "https://drive.google.com/file/d/14O8qyJ18TkQ2OZ3sVokXcP6x820e1C6h/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 6",
+        "link": "https://drive.google.com/drive/folders/1hwohxsrZLGoXnI-8bqAhxqShzIx0AIad?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 8",
+        "link": "https://drive.google.com/file/d/1LB1Of3V5Kpg6gi_j70QeKZbUmN31SYT7/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 7",
+        "link": "https://drive.google.com/drive/folders/1hwohxsrZLGoXnI-8bqAhxqShzIx0AIad?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 9",
+        "link": "https://drive.google.com/file/d/15ZH0Bx_jqG_lnMoCXegfEec9TfkLjrk8/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 8",
+        "link": "https://drive.google.com/drive/folders/1_OALFrGLVf6hG2hhw5PDaqnx51I9FFiB?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 10",
+        "link": "https://drive.google.com/file/d/1jePH25Iw798NfVJSkSTZoNRXcsGeH5Bd/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 9",
+        "link": "https://drive.google.com/drive/folders/1s9GURq5aLn0PO0-vTBivpCVtfMipG17N?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 11",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 11",
+        "link": "https://drive.google.com/file/d/1fqCmNMvL8YJtbGOO2N7pdZm08dLtUDHk/view"
       }
     ]
   }

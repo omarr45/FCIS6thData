@@ -4,6 +4,11 @@
     "elements": [
       {
         "icon": 10,
+        "title": "Past Exams",
+        "link": "https://drive.google.com/drive/folders/1G_0vmK-J955-28AsxLEqUdezod94NvK4?usp=sharing"
+      },
+      {
+        "icon": 10,
         "title": "Lectures - Google Drive Link",
         "link": "https://drive.google.com/drive/folders/1Xz7erUI6IlOR82WuFgLqm6Au4wcM7Fct?usp=sharing"
       },
@@ -11,16 +16,6 @@
         "icon": 10,
         "title": "Sections - Google Drive Link",
         "link": "https://drive.google.com/drive/folders/1d6EYjdtYrk4e-SUkyTD41br6Ti52LTt0?usp=sharing"
-      },
-      {
-        "icon": 10,
-        "title": "Paper - Google Drive Link",
-        "link": "https://drive.google.com/drive/folders/1mkr9H25moTBcT7HsfYh_v_QPh_8uxpJM?usp=sharing"
-      },
-      {
-        "icon": 10,
-        "title": "Past Exams - Google Drive Link",
-        "link": "https://drive.google.com/drive/folders/1OwjrDsKFSoe0uTHk-xTM2bwGXQ0cTMvx?usp=sharing"
       }
     ]
   }

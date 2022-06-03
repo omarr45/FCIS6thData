@@ -3,14 +3,24 @@
     "title": "Pinned Resources",
     "elements": [
       {
-        "icon": 6,
-        "title": "Course Book - Computer Graphics with OpenGL (3rd Edition) 162 MB",
-        "link": "https://www.pdfdrive.com/computer-graphics-with-opengl-3rd-edition-e183586453.html"
+        "icon": 10,
+        "title": "Final Exams + Midterms + some Solutions",
+        "link": "https://drive.google.com/drive/folders/1RpLahU88NbyriSO9y52IysmnOU5rGx9G?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Drive Link",
+        "link": "https://drive.google.com/drive/folders/1I_38vHFWsxUeRcHEa9IP9pwt9aq3omVm"
       },
       {
         "icon": 10,
         "title": "Graphics Labs - Google Drive",
         "link": "https://drive.google.com/drive/folders/1kfZwVkK5mCzxKmcMG2o7pq2QOMNsMGRL"
+      },
+      {
+        "icon": 6,
+        "title": "Course Book - Computer Graphics with OpenGL (3rd Edition) 162 MB",
+        "link": "https://www.pdfdrive.com/computer-graphics-with-opengl-3rd-edition-e183586453.html"
       },
       {
         "icon": 10,
@@ -131,6 +141,16 @@
         "icon": 10,
         "title": "(All) Blender Labs",
         "link": "https://drive.google.com/drive/folders/1DLaLikIw6jTsPp6h9HrHtldmNyyIyq7b?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 6",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 8 (1.4 MB)",
+        "link": "https://drive.google.com/file/d/19s0O-lFIcMBMhhcNBoh_os6P4LR22FrW/view?usp=sharing"
       }
     ]
   }

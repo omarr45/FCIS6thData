@@ -3,6 +3,11 @@
     "title": "Pinned Resources",
     "elements": [
       {
+        "icon": 10,
+        "title": "Final Exams + some Solutions",
+        "link": "https://drive.google.com/drive/folders/1G6vvHWBvcGPJbBOH8l6jZwZmCtaHStW7?usp=sharing"
+      },
+      {
         "icon": 7,
         "title": "Teams Channel Invitation",
         "link": "https://teams.microsoft.com/l/channel/19%3aq3PZ88fBnslPvzPPH1sZv3TLKogaiezJE8NTbkRFV9o1%40thread.tacv2/General?groupId=a2a92af8-9df1-4db7-b525-d14218252caf&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
@@ -146,6 +151,51 @@
         "icon": 4,
         "title": "Lecture 7 (16.5 MB)",
         "link": "https://drive.google.com/file/d/1lHygTB9elF7egTWjoCz5PNziUfUXVNFz/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 6 (0.9 MB)",
+        "link": "https://drive.google.com/file/d/1t9ILj7-TB9C4tuN_douO3VdOvbucF1NO/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 8 (6.2 MB)",
+        "link": "https://drive.google.com/file/d/1zEOvAKKsCRvXhSiPk4JZfdW1tLKEiH5q/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 7 (6 MB)",
+        "link": "https://drive.google.com/file/d/1Fbiwm0vPi8yI5_i8tUfUIArjDigDetyd/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 9 (4.9 MB)",
+        "link": "https://drive.google.com/file/d/1pc6cSyAQVSBSZC-msYYkHMd6hWMOOreg/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 8 (0.5 MB)",
+        "link": "https://drive.google.com/file/d/1XiPkeyQS7Db9H4styUMPJBw7esj_jLbS/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 4,
+        "title": "Lecture 10 (8.2 MB)",
+        "link": "https://drive.google.com/file/d/1qGNILNUQKqf4lDU2LxXr5Aa7sLUdemqw/view?usp=sharing"
       }
     ]
   }

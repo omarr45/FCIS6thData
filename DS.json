@@ -93,5 +93,25 @@
         "link": "https://drive.google.com/drive/folders/1QQKV5gJe6Rrfu5AKmZwpMMbxJ__IOQwt?usp=sharing"
       }
     ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Section 6",
+        "link": "https://drive.google.com/file/d/1cfiK7Ij9GziUaFDECQLpgv-jkE1R1bzi/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Section 3",
+        "link": "https://docs.google.com/presentation/d/1mALGOCkrSJhbE7g25vE_6LczMK5_30TE/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
   }
 ]

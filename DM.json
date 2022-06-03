@@ -4,6 +4,11 @@
     "elements": [
       {
         "icon": 10,
+        "title": "Final Exams 2019-2022",
+        "link": "https://drive.google.com/drive/folders/1qvjOhM3vcsH2uFNFOLBwyM-riRhoGytB?usp=sharing"
+      },
+      {
+        "icon": 10,
         "title": "Lectures - Google Drive",
         "link": "https://drive.google.com/drive/folders/1ibJFrTVllav_VBp7Fir_BEUH7P7jQYc-"
       },
@@ -90,7 +95,7 @@
       {
         "icon": 1,
         "title": "Lecture 6",
-        "link": "https://drive.google.com/file/d/1Allx_Qqi4mvhww2ISUP15jXL-tdjGVFb/view?usp=sharing "
+        "link": "https://drive.google.com/file/d/1Allx_Qqi4mvhww2ISUP15jXL-tdjGVFb/view?usp=sharing"
       },
       {
         "icon": 3,
@@ -103,9 +108,54 @@
     "title": "Week 7",
     "elements": [
       {
+        "icon": 1,
+        "title": "Lecture 7",
+        "link": "https://drive.google.com/file/d/1i_vv8bM1aeFjE9L5MpIm6Z3QOMVHt6DH/view?usp=sharing"
+      },
+      {
         "icon": 3,
         "title": "Lab 6",
         "link": "https://docs.google.com/presentation/d/1cAhYQA1VHgqIRIcL0wYWAmUo7ErsMK99/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 8",
+        "link": "https://drive.google.com/file/d/1VpIZhBQPW4UNEUayVLCupuHez_9JRAYq/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 7",
+        "link": "https://docs.google.com/presentation/d/1EOFfnHppFT1rfIkDKSp1hZkunQkp8_Fo/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 9",
+        "link": "https://drive.google.com/file/d/12roAs7v8gFWDynYLlC546m70ytg9DmeT/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 8",
+        "link": "https://docs.google.com/presentation/d/1LMuVhAhjf-seEbbaWSZnO6iO7V5yuLql/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 3,
+        "title": "Lab 9",
+        "link": "https://docs.google.com/presentation/d/1HfSGFxB8baFft6688E-kX38Gd_HXiKb5/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
       }
     ]
   }

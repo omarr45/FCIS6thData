@@ -4,6 +4,11 @@
     "elements": [
       {
         "icon": 10,
+        "title": "Midterm '22",
+        "link": "https://drive.google.com/file/d/1_W6ol9R3hxggMX-uCCc6p8mN981ZjPxp/view?usp=sharing"
+      },
+      {
+        "icon": 10,
         "title": "(Lectures + Labs) Google Drive Link",
         "link": "https://drive.google.com/drive/folders/1gq2BRjBKK-cFzVQd50Q0gfqQXf2uFnlx"
       }
@@ -53,7 +58,7 @@
     "title": "Week 4",
     "elements": [
       {
-        "icon": 1,
+        "icon": 10,
         "title": "Lecture 4",
         "link": "https://drive.google.com/drive/folders/12iFFFxDHXjwHMvEwTCuFJ7PAhmLmoYuj?usp=sharing"
       },
@@ -91,6 +96,66 @@
         "icon": 1,
         "title": "Lab 5",
         "link": "https://docs.google.com/presentation/d/1-d8wIAOpO9z-hKBvw-Ky5JE1Wgu8r-ge/edit?usp=sharing&ouid=116784332834565154938&rtpof=true&sd=true"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 7",
+        "link": "https://drive.google.com/file/d/1KFEGCipAqOc_BCZyJtDi1PHe9yTsHzAT/view?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 6",
+        "link": "https://drive.google.com/drive/folders/1tZ1-WdtEWcQzDtKLDNUOidmAmlRuRaMq?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lecture 8",
+        "link": "https://drive.google.com/drive/folders/1NSC6GUEq6Rkh69AutLAPIsUW2gos2kgD?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 7",
+        "link": "https://drive.google.com/drive/folders/1mz_HmeF4vUq_b1f2nn5CE8XiCgt1x8z-?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lecture 9",
+        "link": "https://drive.google.com/drive/folders/1KocDIZfjGowIcPnP-idHjVWhhcf44Lug?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 8",
+        "link": "https://drive.google.com/drive/folders/1xdeT_WMjl7-NZVGHED3XhDIutgVTiftD?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 10,
+        "title": "Lab 9",
+        "link": "https://drive.google.com/drive/folders/1gCD3dSc8QYkCxgzdH60e55YX09lRtXCh?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 10",
+        "link": "https://drive.google.com/drive/folders/1QZX1cknv7bQuSITIhRQWkioUeSZN_e6l?usp=sharing"
       }
     ]
   }

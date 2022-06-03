@@ -113,5 +113,35 @@
         "link": "https://drive.google.com/drive/folders/1mQvAs3Kd5IBP8k3ngg57zcRdwh68cZil"
       }
     ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 7 (2.7 MB)",
+        "link": "https://drive.google.com/file/d/1F_s8vgU1xsXkC9jpYkMe-KXx_FZy2o77/view"
+      },
+      {
+        "icon": 10,
+        "title": "Lab 6",
+        "link": "https://drive.google.com/drive/folders/1W8eQqfSkFmUdVhqukkCBAfl7ln_nvIT_"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 8 (3.1 MB)",
+        "link": "https://drive.google.com/file/d/1ed0PRKjEv9daG9OA_dFtVGgD0Ju83bSe/view"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 7",
+        "link": "https://drive.google.com/file/d/1I29up6qA05TbS7ebHqTOgeOV-5-yTaio/view"
+      }
+    ]
   }
 ]

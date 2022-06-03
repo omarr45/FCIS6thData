@@ -16,6 +16,11 @@
         "icon": 10,
         "title": "Google Drive Link",
         "link": "https://drive.google.com/drive/folders/1fg1AnMlgRKUMDWyFsYWng8xqQUq-GoR2?usp=sharing"
+      },
+      {
+        "icon": 10,
+        "title": "3 Sheets",
+        "link": "https://drive.google.com/drive/folders/13GXPN7-qBqOtvxiOVUv4HUz_JC2zl6W-?usp=sharing"
       }
     ]
   },
@@ -101,6 +106,76 @@
         "icon": 4,
         "title": "Lab 5 (505 KB)",
         "link": "https://drive.google.com/file/d/1iJsH1MQKwFGwf3hP66AVgF1RFsqKEgh6/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 7 (1 MB)",
+        "link": "https://drive.google.com/file/d/18pH2tEEhBhHHBEGUoZaJuGw4FTkknZac/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 6 (986 KB)",
+        "link": "https://drive.google.com/file/d/1Ubtizt5tnGUyYq55dYLPobx8-23-0425/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 8 (1 MB)",
+        "link": "https://drive.google.com/file/d/1UdzE07Qx-SIpXLQ_aUacuBJcu_52MsFo/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 7 (775 KB)",
+        "link": "https://drive.google.com/file/d/1h9jGOSsvXe75m2i5dsL0SE4UHgEDIT_l/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 9 (1.6 MB)",
+        "link": "https://drive.google.com/file/d/12IqlOCP9qu9rQOURbXhWdgcF406YWLXM/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 10 (2.1 MB)",
+        "link": "https://drive.google.com/file/d/10sFW11AOMqusbuvIm8pjPFi9asXhs9U7/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 9 CS (2.3 MB)",
+        "link": "https://drive.google.com/file/d/1NeiWaowIbrZT-x59W4uP23xsKckK6l5p/view?usp=sharing"
+      },
+      {
+        "icon": 4,
+        "title": "Lab 9 SC (2.3 MB)",
+        "link": "https://drive.google.com/file/d/1vsRQDGWVc6MMtNiw6v1XnawraCkSUoUx/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 11",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Lecture 11 (1.5 MB)",
+        "link": "https://drive.google.com/file/d/1pHv5CqcJhxW5SJPvG6DJrM_kTfL7LLtv/view?usp=sharing"
       }
     ]
   }

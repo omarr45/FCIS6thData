@@ -3,6 +3,26 @@
     "title": "Pinned Resources",
     "elements": [
       {
+        "icon": 10,
+        "title": "Drive Link",
+        "link": "https://drive.google.com/drive/folders/1bRPPTmCs0PUSxNTj6jRtcWFR41ozxKiJ"
+      },
+      {
+        "icon": 10,
+        "title": "Design Patterns Midterm 2017",
+        "link": "https://drive.google.com/drive/folders/1yJ7vD2x3fHww4oXSdmyTld5Tj4erYriG"
+      },
+      {
+        "icon": 10,
+        "title": "Design Patterns Final 2021 & 2017",
+        "link": "https://drive.google.com/drive/folders/1bP4qiD0nizFoQqF7EAxVcEU2I4hqH_b0"
+      },
+      {
+        "icon": 10,
+        "title": "Quizzes 2022",
+        "link": "https://drive.google.com/drive/folders/1PJQ_erApCdIydC19Ancuu2sfhBBUIdu4"
+      },
+      {
         "icon": 7,
         "title": "Teams Channel Invitation",
         "link": "https://teams.microsoft.com/l/channel/19%3agi7hzjzxOdBrB1eb-GLZjFdXdxKFW41HQgZ2uMnoTOs1%40thread.tacv2/General?groupId=7c8080d6-fcf8-4e5a-8809-1d73f1afc9a5&tenantId=6845d6ca-1ec5-4c0e-9e9d-34130ce0a0b8"
@@ -25,7 +45,7 @@
       {
         "icon": 1,
         "title": "Lecture 1 [Up to slide 49] - (2.7 MB)",
-        "link": "https://drive.google.com/file/d/1bSJXYn5Ob3uvS3flhGehmg6aiEgCU9mO/view"
+        "link": "https://drive.google.com/file/d/1eOatD2O8Ftof9-3Ul56o5bBglBzCgGED/view"
       },
       {
         "icon": 9,
@@ -146,6 +166,66 @@
         "icon": 3,
         "title": "Lab 5 (281 KB)",
         "link": "https://docs.google.com/presentation/d/1wWVGPkwMn6JFg8DNMYo7p0l5BgT4HiXr/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 7",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Design Patterns - Lecture 1",
+        "link": "https://drive.google.com/file/d/1WjR1wplluV6xYLsXfESedkrAg3dK3l_h/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 6 (110 KB)",
+        "link": "https://docs.google.com/presentation/d/1NNWIxKmoMLuQ1vTYiCQ386oLk17xTkWH/edit?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 8",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Design Patterns - Lecture 2",
+        "link": "https://drive.google.com/file/d/1qAgVu60_Tn1_CwEtwvoH-IszrdbNGio4/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 7 (1.7 MB)",
+        "link": "https://docs.google.com/presentation/d/1wK0tG1HAlwQqZErukx_1gVv6aN4KgFju/edit?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 9",
+    "elements": [
+      {
+        "icon": 1,
+        "title": "Design Patterns - Lecture 3",
+        "link": "https://drive.google.com/file/d/1st1iamrP7E2IMKQ_qTbjn6ohMGAk8plP/view?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 8 (484 KB)",
+        "link": "https://docs.google.com/presentation/d/1hWkeq5buAFZcZLW3ACdQ4TDhVNcBMYcD/edit?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Week 10",
+    "elements": [
+      {
+        "icon": 3,
+        "title": "Lab 9 (628 KB)",
+        "link": "https://docs.google.com/presentation/d/1mOnDmu50KHdfcyCo1yswQCQjVx48wjG0/edit?usp=sharing"
+      },
+      {
+        "icon": 3,
+        "title": "Lab 10 (568 KB)",
+        "link": "https://docs.google.com/presentation/d/1F_phoXCQ8vLXK9h7XeFjzEz8QmItWAt-/edit?usp=sharing"
       }
     ]
   }
